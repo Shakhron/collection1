@@ -1,0 +1,5 @@
+Hstudent1 np1 4
+Rstudent2 np1 3
+Astudent3 np1 2
+Bstudent4 np1 5
+Ostudent5 np1 3
